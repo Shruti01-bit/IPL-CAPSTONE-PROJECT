@@ -80,7 +80,7 @@ The following visualizations highlight different aspects of IPL match data.
 
 ### Bowling Analysis
 
-![Bowling Analysis](images/bowling_analysis.png)
+![Bowling Analysis](images/bowling_figure.png)
 
 ## Key Skills Demonstrated
 
